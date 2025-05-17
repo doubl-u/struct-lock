@@ -1,4 +1,4 @@
-# CryptoCube - 3D Structural Encryption System
+# StructLock - 3D Structural Encryption System
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
