@@ -15,8 +15,8 @@ A file encryption system that transforms data into 3D structural mappings for en
 
 2. **Run the executable**:
    ```bash
-   ./CryptoCube.exe  # Windows
-   ./CryptoCube      # Linux
+   ./StructLock.exe  # Windows
+   ./StructLock      # Linux
    
 ## Key Features
 
