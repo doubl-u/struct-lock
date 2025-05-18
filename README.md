@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-A file encryption system that transforms data into 3D structural mappings for enhanced security. Unlike traditional encryption methods, CryptoCube organizes both content and keys within a virtual volumetric space, creating a multi-dimensional security layer.
+A file encryption system that transforms data into 3D structural mappings for enhanced security. Unlike traditional encryption methods, Struct Lock organizes both content and keys within a virtual volumetric space, creating a multi-dimensional security layer.
 
 ## How to Use
 
